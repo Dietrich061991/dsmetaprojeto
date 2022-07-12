@@ -1,0 +1,15 @@
+.dsmeta-red-botao {
+    height: 30px;
+    width: 30px;
+    background: rgba(255, 107, 114, 0.1);
+    border: 1px solid #00FA9A;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.dsmeta-red-botao img{
+    width: 19px;
+}
