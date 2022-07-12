@@ -1,6 +1,6 @@
 
 import icon from '../../asserts/img/icone-notificacao.svg'
-import './styles.css'
+
 
 function Notificationbutton() {
     return(
